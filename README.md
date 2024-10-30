@@ -1,6 +1,7 @@
 [Dashboard](https://github.com/Chatterjee18/Atliq-Banking-Domain-Dashboard/blob/88879de7179c774cd48807c02bdd9aa11723e7d8/Atliq%20Banking%20Domain.pdf)
-Live Dashboard -- [PowerBI](https://app.powerbi.com/groups/me/reports/c752d806-9f87-43b8-9a02-2983410b2da4/7fc9b02106064e075cd8?experience=power-bi
-)
+
+Live Dashboard -- [PowerBI](https://app.powerbi.com/groups/me/reports/c752d806-9f87-43b8-9a02-2983410b2da4/7fc9b02106064e075cd8?experience=power-bi)
+
 
 # Mitron Bank Dashboard
 
@@ -46,8 +47,8 @@ A comprehensive Power BI dashboard designed to provide deep insights into the de
    - Expanding the analysis to include customer feedback for a sentiment analysis-based feature.
    - Real-time data integration to offer even more up-to-date insights for decision-makers.
 
-## 🛠️ Setup & Installation
-To run this Power BI dashboard locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/mitron-bank-dashboard.git
+👋 Contact
+If you have any questions or feedback, feel free to reach out:
+
+LinkedIn: Chandan Chatterjee
+Email: chatterjee.chandan1991@gmail.com
