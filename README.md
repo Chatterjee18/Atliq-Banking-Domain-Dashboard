@@ -1,9 +1,8 @@
-[Dashboard](https://github.com/Chatterjee18/Atliq-Banking-Domain-Dashboard/blob/88879de7179c774cd48807c02bdd9aa11723e7d8/Atliq%20Banking%20Domain.pdf)
+# Mitron Bank Dashboard                                                      
+                                                     
+Live Dashboard -- [Link](https://app.powerbi.com/groups/me/reports/c752d806-9f87-43b8-9a02-2983410b2da4/7fc9b02106064e075cd8?experience=power-bi)
 
-Live Dashboard -- [PowerBI](https://app.powerbi.com/groups/me/reports/c752d806-9f87-43b8-9a02-2983410b2da4/7fc9b02106064e075cd8?experience=power-bi)
 
-
-# Mitron Bank Dashboard
 
 A comprehensive Power BI dashboard designed to provide deep insights into the demographics, spending behavior, and payment trends of Mitron Bank customers. This project helps financial institutions derive actionable business insights by analyzing customer data across various dimensions such as age, gender, city, occupation, and payment methods.
 
@@ -41,14 +40,13 @@ A comprehensive Power BI dashboard designed to provide deep insights into the de
    - **Customer Segmentation**: Helps financial institutions understand their customer base better by providing breakdowns across age, gender, occupation, and city.
    - **Spending Trends**: Detailed analysis of customer spending patterns, allowing banks to tailor services, promotions, and offerings.
    - **Payment Mode Optimization**: Tracks payment preferences, enabling the bank to optimize payment gateway options and strategies based on customer behavior.
+# Data Model
+![Screenshot 2025-01-12 193710](https://github.com/user-attachments/assets/aa5b8f23-492d-46b0-ba5c-e54890fdd17b)
 
-## 📈 Future Improvements
-   - Integration with **Machine Learning** models to predict customer churn and recommend personalized banking products.
-   - Expanding the analysis to include customer feedback for a sentiment analysis-based feature.
-   - Real-time data integration to offer even more up-to-date insights for decision-makers.
+# Dashboard
+![Atliq Banking Domain_page-0001](https://github.com/user-attachments/assets/9d29351b-7fa3-4d87-86ee-1c5c16b9ae03)
+![Atliq Banking Domain_page-0002](https://github.com/user-attachments/assets/b4bd60d5-43bd-4407-85e7-c406b1598a6a)
+![Atliq Banking Domain_page-0003](https://github.com/user-attachments/assets/7b478a76-34d6-445f-ab95-9830f3d7cfd5)
+![Atliq Banking Domain_page-0004](https://github.com/user-attachments/assets/ae187e99-8f4d-402c-8ce9-f4643a2ac7b5)
 
-👋 Contact
-If you have any questions or feedback, feel free to reach out:
 
-LinkedIn: Chandan Chatterjee
-Email: chatterjee.chandan1991@gmail.com
